@@ -64,7 +64,7 @@ public class App {
 
                 case 2:
 
-                    System.out.println("Introduzca el correo electrónico y contraseña para acceder al usuario: ");
+                    System.out.println("\nIntroduzca el correo electrónico y contraseña para acceder al usuario: ");
                     emailIntroducido = scanner.nextLine();
                     contraseñaIntroducida = scanner.nextLine();
 
